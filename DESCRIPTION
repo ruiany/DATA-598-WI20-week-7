@@ -7,6 +7,7 @@ Author: person(given = "Ruian", family = "Yang",
     comment = c(ORCID = "0000-0002-0789-2465"))
 Maintainer: Ruian Yang <ruiany1522@gmail.com>
 Description: week 7 in class activity 
+URL: https://github.com/ruiany/DATA-598-WI20-week-7
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
