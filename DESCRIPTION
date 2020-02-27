@@ -3,7 +3,7 @@ Type: Package
 Title: simplecompedium
 Version: 0.1.0
 Author: person(given = "Ruian", family = "Yang",
-    email = "ruiany1522@gmail.com",
+    email = "ruiany@w.edu",
     comment = c(ORCID = "0000-0002-0789-2465"))
 Maintainer: Ruian Yang <ruiany1522@gmail.com>
 Description: week 7 in class activity 
