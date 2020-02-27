@@ -4,7 +4,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of mysimplecompedium is to ...
+The goal of mysimplecompedium is to perform simple math operations.
 
 ## Installation
 
